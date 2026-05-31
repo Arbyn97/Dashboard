@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "goodname": "cream"
+  },
+  {
+    "goodname": "body splash",
+    "id": 2,
+    "category": "dasdskjksa",
+    "off": 0,
+    "description": "sdsd",
+    "url": "",
+    "price": "5487851",
+    "": "x"
+  },
+  {
+    "goodname": "eyeliner",
+    "id": 3,
+    "category": "cosmetic",
+    "off": 0,
+    "description": "ffsfsdf",
+    "url": "",
+    "price": "200000"
+  },
+  {
+    "id": 4,
+    "goodname": "concealer",
+    "price": "20000",
+    "description": "dsfsd",
+    "off": "0"
+  },
+  {
+    "id": 5,
+    "goodname": "coconut oli",
+    "price": "450000",
+    "description": "csdcsdc",
+    "off": "0"
+  },
+  {
+    "goodname": "body lotion",
+    "id": 6,
+    "category": "body care",
+    "off": "20",
+    "description": "",
+    "url": "",
+    "price": "500000"
+  },
+  {
+    "goodname": "test",
+    "id": 7,
+    "category": "",
+    "off": "1",
+    "description": "",
+    "url": "",
+    "price": "5222"
+  },
+  {
+    "goodname": "test2",
+    "id": 8,
+    "category": "",
+    "off": "4",
+    "description": "",
+    "url": "",
+    "price": "500"
+  }
+]
